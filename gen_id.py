@@ -15,12 +15,10 @@ def func_gen_id(): #Function to gene
 	return id_
 
 
-# class rand_id():
+class rand_id():
 
-# 	def __init__(self):
-# 		self.id = func_gen_id()
+	def __init__(self):
+		self.id = func_gen_id()
 
-# 	def get_id(self):
-# 		return self.id
-
-print func_gen_id()
+	def get_id(self):
+		return self.id
