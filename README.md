@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!usr/bin/Python
 import time
 import random
@@ -22,3 +23,8 @@ class rand_id():
 
 	def get_id(self):
 return self.id
+=======
+                       //Infinite ID//
+                       
+           Generate random 32 bit ID's with no redundancy.
+>>>>>>> 5a6f64b4fe9497961b4ef22bd6c7855877effa44
