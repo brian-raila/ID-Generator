@@ -15,7 +15,7 @@ def func_gen_id(): #Function to gene
 	return id_
 
 
-class rand_id():
+class get_id():
 
 	def __init__(self):
 		self.id = func_gen_id()
