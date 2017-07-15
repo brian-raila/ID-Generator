@@ -5,7 +5,7 @@
 
 
 How to use :
-#  Importing
+#  Usage 
 
         from id import gen_id
         id = gen_id().gen_id()
